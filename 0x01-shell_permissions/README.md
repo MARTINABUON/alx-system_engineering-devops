@@ -3,3 +3,4 @@
 2-groups-a script that prints all the groups the current user is part of
 3-new_owner-changing file ownership
 4-empty-scrpt for an empty file
+5-execute-cript that adds execute permission to the owner of the file
