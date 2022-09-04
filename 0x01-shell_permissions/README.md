@@ -4,3 +4,4 @@
 3-new_owner-changing file ownership
 4-empty-scrpt for an empty file
 5-execute-cript that adds execute permission to the owner of the file
+6-multiple_permissions-a script that adds execute permission to the owner and the group owner, and read permission to other users
