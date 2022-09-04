@@ -11,3 +11,4 @@
 9-John_Doe-sets mode
 12-directory_permissions-making directory with file hello
 10-mirror_permissions-sets the mode of the file hello the same as olleh’s mode
+11-directories_permissions-execution permission to subdir
