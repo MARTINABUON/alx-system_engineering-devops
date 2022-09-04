@@ -8,3 +8,4 @@
 7-everybody-rwx to users group and all
 13-change_group-changing group owner
 8-James_Bond-sets the permission
+9-John_Doe-sets mode
