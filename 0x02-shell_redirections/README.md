@@ -7,3 +7,4 @@
 6-third_line-Write a script that displays the third line of the file
 8-cwd_state-redirect ls-la into ls_cwd_content
 ls_cwd_content-script that duplicates the last line of the file
+7-file-file creation
