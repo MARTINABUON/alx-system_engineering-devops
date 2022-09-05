@@ -5,3 +5,4 @@
 3-twofiles-display content of two files
 4-lastlines-Display the last 10 lines
 6-third_line-Write a script that displays the third line of the file
+8-cwd_state-redirect ls-la into ls_cwd_content
