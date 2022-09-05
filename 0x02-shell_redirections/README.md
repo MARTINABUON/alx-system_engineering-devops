@@ -2,3 +2,4 @@
 5-firstlines-Displays the first 10 lines
 1-confused_smiley-displays a confused smiley
 2-hellofile-displays content of \etc\passwd
+3-twofiles-display content of two files
