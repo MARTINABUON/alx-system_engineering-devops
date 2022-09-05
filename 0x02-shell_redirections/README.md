@@ -3,3 +3,4 @@
 1-confused_smiley-displays a confused smiley
 2-hellofile-displays content of \etc\passwd
 3-twofiles-display content of two files
+4-lastlines-Display the last 10 lines
