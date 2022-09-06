@@ -9,3 +9,4 @@
 ls_cwd_content-script that duplicates the last line of the file
 7-file-file creation
 13-unique-script that takes a list of words as input and prints only words that appear exactly once
+14-findthatwordisplay lines containing the pattern “root” from the file 
