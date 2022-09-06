@@ -25,3 +25,4 @@ ls_cwd_content-script that duplicates the last line of the file
 100-empty_casks-finds all empty files and directories in the current directory and all sub-directories
 101-gifs-script that lists all the files with a .gif extension in the current directory and all its sub-directories
 102-acrostic-script that decodes acrostics that use the first letter of each line
+103-the_biggest_fanparses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
