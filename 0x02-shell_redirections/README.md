@@ -23,3 +23,4 @@ ls_cwd_content-script that duplicates the last line of the file
 19-AZ- repalces character
 7file-file creation
 100-empty_casks-finds all empty files and directories in the current directory and all sub-directories
+101-gifs-script that lists all the files with a .gif extension in the current directory and all its sub-directories
