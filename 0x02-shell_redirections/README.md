@@ -21,3 +21,4 @@ ls_cwd_content-script that duplicates the last line of the file
 17-hidethisword-Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 18-letteronly-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ- repalces character
+7file-file creation
