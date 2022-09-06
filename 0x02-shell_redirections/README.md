@@ -22,3 +22,4 @@ ls_cwd_content-script that duplicates the last line of the file
 18-letteronly-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ- repalces character
 7file-file creation
+100-empty_casks-finds all empty files and directories in the current directory and all sub-directories
