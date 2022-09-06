@@ -14,3 +14,4 @@ ls_cwd_content-script that duplicates the last line of the file
 21-reverse-reverse input
 10-no_more_js- script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 15-countthatword-Display the number of lines that contain the pattern “bin” in the file
+12-newest_files-script that displays the 10 newest files in the current directory
