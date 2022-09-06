@@ -8,3 +8,4 @@
 8-cwd_state-redirect ls-la into ls_cwd_content
 ls_cwd_content-script that duplicates the last line of the file
 7-file-file creation
+13-unique-script that takes a list of words as input and prints only words that appear exactly once
