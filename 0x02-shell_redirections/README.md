@@ -17,3 +17,4 @@ ls_cwd_content-script that duplicates the last line of the file
 12-newest_files-script that displays the 10 newest files in the current directory
 20-hiago-removes character
 11-directories-  script that counts the number of directories and sub-directories in the current directory
+16-whatsnext-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
