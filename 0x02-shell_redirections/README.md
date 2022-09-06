@@ -19,3 +19,4 @@ ls_cwd_content-script that duplicates the last line of the file
 11-directories-  script that counts the number of directories and sub-directories in the current directory
 16-whatsnext-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 17-hidethisword-Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+18-letteronly-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
