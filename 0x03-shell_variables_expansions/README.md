@@ -10,3 +10,4 @@
 9-divide_and_rule- divideand rule
 10-love_exponent_breath- breathe to power of love
 11-binary_to_decimal-converts a number from base 2 to base 10
+12-combinations-displays combination of two letters
