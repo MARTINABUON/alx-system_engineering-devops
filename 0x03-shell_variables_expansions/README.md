@@ -4,3 +4,4 @@
 3-paths-coounts dir iin PATH
 4global_variables-list environment variables
 5-local_variables-lists variables
+6-create_local_variable- creates variable
