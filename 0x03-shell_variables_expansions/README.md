@@ -12,3 +12,4 @@
 11-binary_to_decimal-converts a number from base 2 to base 10
 12-combinations-displays combination of two letters
 13-print_float-prints floats
+100-decimal_to_hexadecimal-converts a number from base 10 to base 16
