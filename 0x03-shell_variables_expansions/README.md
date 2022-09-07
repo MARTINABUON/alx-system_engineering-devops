@@ -2,3 +2,4 @@
 1-hello_you-Create a script that prints hello user, where user is the current Linux user
 2-path_ adds /action as the last dir in the PATH
 3-paths-coounts dir iin PATH
+4global_variables-list environment variables
