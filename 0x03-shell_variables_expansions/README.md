@@ -8,3 +8,4 @@
 7-create_global_variable-creates another variableexports variable
 8-true_knowledge- arithmetic expansion adds 128 to the vallue stored in KNOWLEDGE
 9-divide_and_rule- divideand rule
+10-love_exponent_breath- breathe to power of love
