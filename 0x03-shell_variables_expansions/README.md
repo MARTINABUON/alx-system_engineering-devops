@@ -5,3 +5,4 @@
 4global_variables-list environment variables
 5-local_variables-lists variables
 6-create_local_variable- creates variable
+7-create_global_variable-creates another variableexports variable
