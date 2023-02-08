@@ -8,3 +8,4 @@ prints the absolute path name of the current working directory
 8-firstdelete-deletes the file betty
 9-firstdirdeletion-deletes directory
 10-back- changes to previous to directory
+11-lists-list contents in the current, parent and the /boot directories
