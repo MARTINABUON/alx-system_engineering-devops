@@ -12,3 +12,4 @@ prints the absolute path name of the current working directory
 12-file_type-prints file type
 13-symbolic_link-creates a link in the current directory
 14-copy_html- copies html file
+100-lets_move-moves all files beginning with an uppercase letter
