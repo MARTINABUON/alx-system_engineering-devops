@@ -4,3 +4,6 @@ prints the absolute path name of the current working directory
 3-listfiles-lists contents in long format
 5-listfilesdigitonly-list contents plus ID and user
 6-firstdirectory- makes a dir in a dir
+7-movethatfile-moves a file
+8-firstdelete-deletes the file betty
+9-firstdirdeletion-deletes directory
