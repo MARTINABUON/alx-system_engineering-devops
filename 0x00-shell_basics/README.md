@@ -7,3 +7,4 @@ prints the absolute path name of the current working directory
 7-movethatfile-moves a file
 8-firstdelete-deletes the file betty
 9-firstdirdeletion-deletes directory
+10-back- changes to previous to directory
