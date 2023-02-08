@@ -13,3 +13,5 @@ prints the absolute path name of the current working directory
 13-symbolic_link-creates a link in the current directory
 14-copy_html- copies html file
 100-lets_move-moves all files beginning with an uppercase letter
+101-clean_emacs-deletes all files in the current working directory that end with the character ~
+102-tree-creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
