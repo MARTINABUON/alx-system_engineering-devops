@@ -10,3 +10,4 @@ prints the absolute path name of the current working directory
 10-back- changes to previous to directory
 11-lists-list contents in the current, parent and the /boot directories
 12-file_type-prints file type
+13-symbolic_link-creates a link in the current directory
