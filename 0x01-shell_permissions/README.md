@@ -8,3 +8,4 @@
 7-everybody-adds executable permisions to ugo
 8-James_Bond- adds all permisions to other users and none to owner and group\n
 9-John_Doe- sets the mode to -rwxr-x-wx
+10-mirror_permissions- matches two files
