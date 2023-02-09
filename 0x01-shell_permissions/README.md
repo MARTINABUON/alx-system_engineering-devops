@@ -12,3 +12,4 @@
 11-directories_permissions- adds permissions recursively
 12-directory_permissions-creates new file and adds permissionss
 13-change_group--changes group ownership
+100-change_owner_and_group-changes group and individual ownerships
