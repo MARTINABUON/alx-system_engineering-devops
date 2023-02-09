@@ -5,3 +5,4 @@
 4-empty- creates an empty file hello
 5-execute- adds task 5
 6-multiple_permissions-multiple permisions
+7-everybody-adds executable permisions to ugo
