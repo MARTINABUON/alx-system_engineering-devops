@@ -6,3 +6,4 @@
 5-execute- adds task 5
 6-multiple_permissions-multiple permisions
 7-everybody-adds executable permisions to ugo
+8-James_Bond- adds all permisions to other users and none to owner and group\n
