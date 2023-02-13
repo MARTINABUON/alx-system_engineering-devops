@@ -10,3 +10,4 @@
 9-duplicate_last_line- displays the last line in a file iacta
 10-no_more_js- find command
 11-directories
+13-unique, 14, 15, 15, 16, 17, 18, 19, 20 , 21
