@@ -7,3 +7,4 @@
 6-third_line- diplays the third line
 7-file- creates file with contents
 8-cwd_state- I/O
+9-duplicate_last_line- displays the last line in a file iacta
