@@ -5,3 +5,4 @@
 4-lastlines- prints the last 10 lines
 5-firstlines- prints first 10 lines
 6-third_line- diplays the third line
+7-file- creates file with contents
