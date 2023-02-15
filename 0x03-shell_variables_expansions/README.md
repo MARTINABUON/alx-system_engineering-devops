@@ -8,3 +8,4 @@
 7-create_global_variable-creates a global variable
 8-true_knowledge- adds 128 to value stored with true knowledge
 9-divide_and_rule
+10-love_exponent_breath
